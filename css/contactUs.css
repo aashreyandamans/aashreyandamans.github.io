@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+            @import url('https://db.onlinewebfonts.com/c/bd9805cba4fdbd10e6f9d097dab9225f?family=Chalkduster');
+            .wrapper {
+                height: 100%;
+                font-family: 'Quicksand', sans-serif;
+                line-height: 1.5;
+                word-spacing: 4px;
+                letter-spacing: 1px;
+            }
+            body {
+                background-image: url("../images/bg1.jpg");
+                background-attachment: fixed;
+                background-position: top center;
+                background-size: cover;
+                overflow-x: hidden;
+            }
+            .samp {
+                margin-top: 8%;
+                width: 500px;
+                height: 350px;
+                background: rgba(31, 31, 20, 0.4);
+                border-radius: 10px;
+                color: white;
+            }
+            input[type=submit] {
+                width: 150px;
+                background-color: white;
+                color: black;
+                height: 30px;
+                border-radius: 9px;
+            }
+            input[type=text] {
+                border-radius: 5px;
+            }
+            input[type=submit]:hover {
+                background-color: #999966;
+                color: white;
+            }
+            #succ {
+                color: #00cc00;
+                font-size: 18px;
+            }
+            .info {
+                margin-top: 6%;
+                height: 100%;
+                color: aliceblue;
+                background-image: url(../images/black-dark-vintage-pattern-3872.jpg);
+            }
+            .fa {
+                padding: 10px;
+                font-size: 30px;
+                width: 50px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+            }
+
+            .fa:hover {
+                opacity: 0.9;
+            }
+
+            .fa-facebook {
+                background: #3B5998;
+                color: white;
+            }
+
+            .fa-twitter {
+                background: #55ACEE;
+                color: white;
+            }
+
+            .fa-youtube {
+                background: #bb0000;
+                color: white;
+            }
+
+            .fa-instagram {
+                background: #125688;
+                color: white;   
+            }
+            .fa-facebook:hover {
+                background: #3B5998;
+                color: white;
+            }
+
+            .fa-twitter:hover {
+                background: #55ACEE;
+                color: white;
+            }
+
+            .fa-youtube:hover {
+                background: #bb0000;
+                color: white;
+            }
+
+            .fa-instagram:hover {
+                background: #125688;
+                color: white;   
+            }
+
+            .column {
+                float: left;
+                width: 50%;
+            }
+
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }

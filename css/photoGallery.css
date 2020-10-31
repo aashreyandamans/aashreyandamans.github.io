@@ -1,0 +1,86 @@
+            @import url('https://fonts.googleapis.com/css?family=Quicksand');
+            @import url('https://db.onlinewebfonts.com/c/bd9805cba4fdbd10e6f9d097dab9225f?family=Chalkduster');
+            .wrapper {
+                height: 100%;
+                font-family: 'Quicksand', sans-serif;
+                line-height: 1.5;
+                word-spacing: 4px;
+                letter-spacing: 1px;
+            }
+            body {
+                background-attachment: fixed;
+                background-position: top center;
+                background-size: cover;
+                overflow-y: scroll;
+                overflow-x: hidden;
+                background-image: url(../images/feathers-black-dark-4k-ultra-hd-background-black-wallpaper-b.jpg);
+            }
+            .mt {
+                margin-top: 3%;
+            }
+            .ht-wt {
+                height: 250px;
+                width: 300px;
+                border-radius: 10px;
+                border: 1px solid black;
+            } 
+            .ht-wt:hover {
+                transform: scale(1.2);
+                cursor: pointer;
+            }
+            .box {
+                height: 100%;
+                width: 100%;
+                
+            }
+            .nivo-directionNav a {
+                  /* Background for the Navigation Arrows. Change this image if you want to use diferent arrows */
+                
+                height: 150px; /* Width of the Navigation Arrows */
+                width: 100px; /* Height of the Navigation Arrows */
+            }
+            
+            a.nivo-prevNav {
+                background: url("../images/Capture-removebg-previewsmallleft.png") no-repeat scroll 0 0 transparent;
+                left: 10px;
+            }
+            a.nivo-nextNav {
+                background: url("../images/Capture-removebg-previewsmall.png") no-repeat scroll 0 0 transparent;
+                
+            }
+            .info {
+                height: 100%;
+                color: aliceblue;
+                background-image: url(../images/black-dark-vintage-pattern-3872.jpg);
+            }
+            .fa {
+                padding: 10px;
+                font-size: 30px;
+                width: 50px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+            }
+
+            .fa:hover {
+                opacity: 0.9;
+            }
+
+            .fa-facebook {
+                background: #3B5998;
+                color: white;
+            }
+            .fa-facebook:hover {
+                background: #3B5998;
+                color: white;
+            }
+            .column {
+                float: left;
+                width: 50%;
+            }
+
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
