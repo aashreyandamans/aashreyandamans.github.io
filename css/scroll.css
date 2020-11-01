@@ -29,10 +29,8 @@
                 vertical-align: middle;
                 
             }
-
             .scroll-bg {
                 background-color: #0f0f0a;
-                padding: 10px 70px;
                 color: whitesmoke;
             }
             /*first section*/
@@ -109,19 +107,16 @@
                 background: #3B5998;
                 color: white;
             }
-            .column {
-                float: left;
-                width: 50%;
-            }
 
             .row:after {
                 content: "";
                 display: table;
                 clear: both;
             }
-.header{
-    background-color:#404040;
-    color: whitesmoke;
-    text-align: center;
-    font-size: 15px;
-}
+            .header{
+                background-color:#404040;
+                color: white;
+                text-align: center;
+                font-size: 15px;
+                padding-bottom: 1px;
+            }
