@@ -60,17 +60,12 @@
                 border-radius: 10px;
             }
             #heading-ash{
-                text-align: center;
-                margin-left: 38%;
-                
                 font-family: 'chalkduster', sans-serif;
-                font-size: 58px;
                 color: white;
             }
             #bednbf{
                 font-family: 'chalkduster', sans-serif;
                 color: white;
-                text-align: center;
                 margin-bottom: 16%;
             }
             .info {
