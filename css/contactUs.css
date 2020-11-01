@@ -14,6 +14,12 @@
                 background-size: cover;
                 overflow-x: hidden;
             }
+.navbar-toggle
+{
+    font-size: 25px;
+background:none; 
+border:none;
+}
             .samp {
                 margin-top: 8%;
                 width: 500px;

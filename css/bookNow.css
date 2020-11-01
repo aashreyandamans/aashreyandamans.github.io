@@ -7,6 +7,12 @@
                 word-spacing: 4px;
                 letter-spacing: 1px;
             }
+.navbar-toggle
+{
+    font-size: 25px;
+background:none; 
+border:none;
+}
             body {
                 background-image: url("../images/bg1.jpg");
                 background-attachment: fixed;

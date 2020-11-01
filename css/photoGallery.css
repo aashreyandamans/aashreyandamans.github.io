@@ -61,7 +61,12 @@
                 text-decoration: none;
                 margin: 5px 2px;
             }
-
+.navbar-toggle
+{
+    font-size: 25px;
+background:none; 
+border:none;
+}
             .fa:hover {
                 opacity: 0.9;
             }
