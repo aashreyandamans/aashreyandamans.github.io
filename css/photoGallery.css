@@ -61,12 +61,13 @@
                 text-decoration: none;
                 margin: 5px 2px;
             }
-.navbar-toggle
-{
-    font-size: 25px;
-background:none; 
-border:none;
-}
+            .navbar-toggle
+            {
+                font-size: 25px;
+                background:none; 
+                border:none;
+                color: white;
+            }
             .fa:hover {
                 opacity: 0.9;
             }

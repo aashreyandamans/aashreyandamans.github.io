@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+            @import url('https://fonts.googleapis.com/css?family=Quicksand');
             @import url('https://db.onlinewebfonts.com/c/bd9805cba4fdbd10e6f9d097dab9225f?family=Chalkduster');
             .wrapper {
                 height: 100%;
@@ -14,12 +14,13 @@
                 background-size: cover;
                 overflow-x: hidden;
             }
-.navbar-toggle
-{
-    font-size: 25px;
-background:none; 
-border:none;
-}
+            .navbar-toggle
+            {
+                font-size: 25px;
+                background:none; 
+                border:none;
+                color: white;
+            }
             .samp {
                 margin-top: 8%;
                 width: 500px;
@@ -69,41 +70,10 @@ border:none;
                 background: #3B5998;
                 color: white;
             }
-
-            .fa-twitter {
-                background: #55ACEE;
-                color: white;
-            }
-
-            .fa-youtube {
-                background: #bb0000;
-                color: white;
-            }
-
-            .fa-instagram {
-                background: #125688;
-                color: white;   
-            }
             .fa-facebook:hover {
                 background: #3B5998;
                 color: white;
             }
-
-            .fa-twitter:hover {
-                background: #55ACEE;
-                color: white;
-            }
-
-            .fa-youtube:hover {
-                background: #bb0000;
-                color: white;
-            }
-
-            .fa-instagram:hover {
-                background: #125688;
-                color: white;   
-            }
-
             .column {
                 float: left;
                 width: 50%;

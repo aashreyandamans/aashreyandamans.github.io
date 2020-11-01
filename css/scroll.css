@@ -1,7 +1,8 @@
             @import url('https://fonts.googleapis.com/css?family=Quicksand');
             @import url('https://db.onlinewebfonts.com/c/bd9805cba4fdbd10e6f9d097dab9225f?family=Chalkduster');
+            
             html,body {
-                
+                background-color: black;
                 width: 100%;
                 margin: 0px;
                 padding: 0px;
@@ -60,25 +61,29 @@
                 border-radius: 10px;
             }
             #heading-ash{
-                font-family: 'chalkduster', sans-serif;
+                font-family: 'Henny Penny', cursive;
                 color: white;
+                font-size: 50px;
             }
             #bednbf{
-                font-family: 'chalkduster', sans-serif;
+                font-family: 'Indie Flower', cursive;
                 color: white;
-                margin-bottom: 16%;
+                margin-bottom: 10%;
             }
             .info {
                 height: 100%;
+                margin-top: 0;
                 color: aliceblue;
                 background-image: url(../images/black-dark-vintage-pattern-3872.jpg);
+                background-position: bottom left;
             }
-.navbar-toggle
-{
-    font-size: 25px;
-background:none; 
-border:none;
-}
+            .navbar-toggle
+            {
+                font-size: 25px;
+                background:none; 
+                border:none;
+                color: white;
+            }
             .fa {
                 padding: 10px;
                 font-size: 30px;
@@ -114,6 +119,5 @@ border:none;
     background-color:#404040;
     color: whitesmoke;
     text-align: center;
-    
     font-size: 15px;
 }
