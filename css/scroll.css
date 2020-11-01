@@ -51,18 +51,19 @@
                 background-image: url('../images/bg3.jpg');
                 background-color: bisque;
             }
-            .img-scroll:hover {
-                opacity: 0.6;
-                cursor: pointer;
+            .mt {
+                margin-top: 3%;
+                border-radius: 8px; 
             }
-            .img-scroll {
-                border: 10px;
-                border-radius: 10px;
+            .box {
+                height: 100%;
+                width: 100%;
+                               
             }
             #heading-ash{
-                font-family: 'Henny Penny', cursive;
+                font-family: 'Syne Mono', monospace;
                 color: white;
-                font-size: 50px;
+                font-size: 65px;
             }
             #bednbf{
                 font-family: 'Indie Flower', cursive;
