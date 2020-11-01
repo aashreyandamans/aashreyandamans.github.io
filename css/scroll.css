@@ -73,6 +73,12 @@
                 color: aliceblue;
                 background-image: url(../images/black-dark-vintage-pattern-3872.jpg);
             }
+            .navbar-toggle
+{
+    font-size: 25PX;
+background:none; 
+border:none;
+}
             .fa {
                 padding: 10px;
                 font-size: 30px;
